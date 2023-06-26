@@ -1,0 +1,16 @@
+{
+  "name": "06_26_demo_portfolio_project",
+  "version": "1.0.0",
+  "description": "Demo portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4545",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["HTML", "CSS", "JS"],
+  "author": "Karolis (https://github.com/mistakeltu)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
