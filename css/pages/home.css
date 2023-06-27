@@ -1,3 +1,13 @@
-body {
-    background-color: grey;
-}
+/* 3rd-party */
+@import '../3rd-party/font-awesome.min.css';
+/* base */
+@import '../basic/base.css';
+@import '../basic/layout.css';
+/* components */
+@import '../components/button.css';
+@import '../components/footer.css';
+@import '../components/header.css';
+
+/* custom */
+
+/* custome perrasom jei norim komponentus kaip pvz auksti jei sitam puslapi jis yra kitoks */
