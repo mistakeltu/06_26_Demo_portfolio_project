@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://mistakeltu.github.io
+Site published at: https://mistakeltu.github.io/06_26_Demo_portfolio_project/
 
 Design: [Cristino](https://shreethemes.in/cristino/layouts/index.html)
 
